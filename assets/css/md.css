@@ -1,0 +1,14 @@
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+	body > *:not(.header) {
+		padding-left: 32px;
+		padding-right: 32px;
+	}
+
+	.header__logo {
+		width: 51px;
+	}
+
+	.header__nav {
+		padding: 14px 31px 14px 32px;
+	}
+}
